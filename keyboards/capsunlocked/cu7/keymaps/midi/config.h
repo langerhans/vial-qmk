@@ -1,0 +1,2 @@
+#define MIDI_ADVANCED
+#define TAPPING_TERM 200
